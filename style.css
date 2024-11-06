@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 30px;
+    background-image: url(001.webp);
+    font-size: 40px;
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+
+}
